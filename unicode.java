@@ -1,0 +1,7 @@
+public class unicode {
+    public static void main(String[] args) {
+        System.out.println("\u2764"); 
+        System.out.println("\u263A"); 
+        System.out.println("\u2605"); 
+    }
+}
