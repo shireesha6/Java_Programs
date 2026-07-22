@@ -4,7 +4,7 @@ public class MinMax {
         System.out.println("min of integer"+Integer.MIN_VALUE);
         System.out.println("max of integer"+Integer.MAX_VALUE);
         System.out.println("min of float"+Float.MIN_VALUE);
-        System.out.println("maxof float"+Float.MAX_VALUE);
+        System.out.println("max of float"+Float.MAX_VALUE);
         System.out.println("min of double"+Double.MIN_VALUE);
         System.out.println("max of double"+Double.MAX_VALUE);
          System.out.println("min of long"+Long.MIN_VALUE);
